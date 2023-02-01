@@ -1,3 +1,5 @@
+package algorithm02;
+
 public class LC9 {
     public boolean isPalindrome(int x) {
         boolean check = true;

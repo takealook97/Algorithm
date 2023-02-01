@@ -1,5 +1,6 @@
+package algorithm02;
+
 import java.util.ArrayList;
-import java.util.HashSet;
 
 class ListNode141 {
     int val;

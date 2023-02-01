@@ -1,3 +1,5 @@
+package algorithm02;
+
 public class LC14 {
     public String longestCommonPrefix(String[] strs) {
         StringBuilder sb = new StringBuilder();

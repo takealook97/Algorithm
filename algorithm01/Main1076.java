@@ -1,3 +1,5 @@
+package algorithm01;
+
 import java.util.Scanner;
 
 public class Main1076 {

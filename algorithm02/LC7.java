@@ -1,3 +1,5 @@
+package algorithm02;
+
 public class LC7 {
     public int reverse(int x) {
         if(x < -Integer.MAX_VALUE){
